@@ -1,4 +1,4 @@
-# Neural-Networks-on-Pulsar-Stars
+# Prediction-of-Pulsar-Stars-Using-Neural-Networks
 The objective of this assignment is to implement a nonlinear regression and nonlinear logistic regression classifier by utilizing neural networks. The purpose of this is assignment is to explain and use 5-fold cross validation to find a good neural network parameters and report the CV accuracies.
 
 First, the data is cleaned. Then, the data is visualized using heatmap, correlation, pairplot, countplot and grid.
